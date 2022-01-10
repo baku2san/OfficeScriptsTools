@@ -1,6 +1,10 @@
 # 概要
 Excel データを Office Scripts で更新
 
+# 動作例
+更新例
+<br>![UpdateExample](UpdateExample.png "動作例")
+
 # 使い方
 1. firstCellName に取得対象の左上のセル名を設定
 1. Power Automate からCallすれば、Body をそのまま UpdateExcelData に渡せばOK
